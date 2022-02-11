@@ -4,9 +4,9 @@
 
 ## Team Members
 Team Raspberries is comprised of:
-Dinesh Dalip [200401946]
-Eric Chartier [200402250]
-Mikayla Peterson [200425538]
+- Dinesh Dalip [200401946]
+- Eric Chartier [200402250]
+- Mikayla Peterson [200425538]
 
 ## Project Background
 The Regina Food Bank has seen a dramatic rise in users of their service, providing made-to-order food hampers, since the beginning of the pandemic. The Food Bank’s current ordering process involves the user calling to arrange a food hamper. Combined with long queue times, this poses a problem where users drop the calls; the client suggests that most of their users hang up after being on hold for around two minutes. According to the client, the number of dropped calls has risen since the pandemic started. Due to the large volume of calls, the Food Bank is unable to handle all the phone calls in a timely manner. The Food Bank also allows for support agencies to batch order food hampers for people, but doing so is not easy, according to the client. Currently, the Food Bank is using Link2Feed as a CRM and booking software. In the current order to delivery flow, there is a chance for information to be duplicated.  
