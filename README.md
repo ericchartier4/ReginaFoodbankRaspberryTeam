@@ -29,7 +29,7 @@ Front-end implementation using Wordpress
 * Connectivity concerns: any product that we create will have to have connectivity with the Food Bank's current online systems. This may prove to be a constraint as we may be limited in what info we can get or send to the other system components. Some examples of these components are:
   * Real-time inventory 
   * User information 
-  *Call in hamper order numbers (to synchronize with online hampers)
+  * Call in hamper order numbers (to synchronize with online hampers)
 * Limit to the number of hampers a user can request in a specific time-frame
 * The number of hampers that can be prepared for delivery in a specific time-frame
 * Lack of Food Bank user testing: we are getting feedback about our designs from the client, who is the CEO of the Regina Food Bank and not primary users which may or may not be biased 
