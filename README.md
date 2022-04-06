@@ -14,7 +14,7 @@ The Regina Food Bank has seen a dramatic rise in users of their service, providi
 ## Business Need/Opportunity
 * Opportunity to provide fast and constant engagement for the user to order a food hamper, and arrange pick up and delivery that aligns with their schedule 
 * Opportunity to provide easy batch ordering for support agencies 
-Automated deduplication 
+* Automated deduplication 
 
 ## Northstar & Carryover Customers
 * Northstar Customer: individual Food Bank users, who are deemed to want ease of access to the Food Bank's service and confirmation of their orders
