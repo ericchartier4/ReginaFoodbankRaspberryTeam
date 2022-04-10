@@ -23,7 +23,7 @@ The Regina Food Bank has seen a dramatic rise in users of their service, providi
 ## Project Assumptions
 * Most of our users should have internet connectivity; the client pointed out most users have mobile phones that can connect via wifi
 * Clients can be able to use our product at any time, and modify their order
-Front-end implementation using Wordpress
+* Front-end implementation using Wordpress
 
 ## Project Constraints
 * Connectivity concerns: any product that we create will have to have connectivity with the Food Bank's current online systems. This may prove to be a constraint as we may be limited in what info we can get or send to the other system components. Some examples of these components are:
