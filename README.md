@@ -33,4 +33,4 @@ The Regina Food Bank has seen a dramatic rise in users of their service, providi
 * Limit to the number of hampers a user can request in a specific time-frame
 * The number of hampers that can be prepared for delivery in a specific time-frame
 * Lack of Food Bank user testing: we are getting feedback about our designs from the client, who is the CEO of the Regina Food Bank and not primary users which may or may not be biased 
-* Wordpress plug in constraint : we are limited by the technology of wordpress, more limitations arise if we consider not to use paid for plug ins
+* Wordpress plug in constraint: we are limited by the technology of wordpress; more limitations arise if we consider not to use paid for plug ins
